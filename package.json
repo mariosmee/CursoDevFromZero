@@ -1,0 +1,24 @@
+{
+  "name": "cursodevfromzero",
+  "version": "1.0.0",
+  "description": "Git class from Curso.DEV",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariosmee/CursoDevFromZero.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariosmee/CursoDevFromZero/issues"
+  },
+  "homepage": "https://github.com/mariosmee/CursoDevFromZero#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
